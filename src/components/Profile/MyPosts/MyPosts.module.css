@@ -1,0 +1,10 @@
+.main {
+    grid-area: m;
+    background-color: red;
+}
+.postsBlock{
+    padding: 10px;
+}
+.posts{
+    margin-top: 10px;
+}
